@@ -1,1 +1,3 @@
 # WebScraper
+
+By Renato Amaral
