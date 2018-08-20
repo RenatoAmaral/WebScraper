@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RenatoAmaral/WebScraper/issues"
   },
-  "homepage": "https://github.com/RenatoAmaral/WebScraper#readme"
+  "homepage": "https://github.com/RenatoAmaral/WebScraper#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
